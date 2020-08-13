@@ -1,3 +1,3 @@
 My first Git project.
-Author: <Jia Nian>
-Date started: <13/08/20>
+Author: <Jia Nian> and Nic
+Date started: <13/08/20> and something
